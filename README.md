@@ -6,8 +6,13 @@ Java code for ATM Simulator for Excite Holidays Back end Java
 Assumptions:
 
 Available balance: 1500
+
 Total Balance: 1000
+
+
 No:of 20's: 25
+
+
 No: of 50's: 10
 
 Methods:
